@@ -36,12 +36,14 @@ void ofApp::draw() {
 	//required to call this at beginning
 	gui.begin();
 	{
-		ImGui::ColorEdit3("Background Color", (float*)&backgroundColor);
 		ImGui::Text("Hello, world!");
+		ImGui::ColorEdit3("Background Color", (float*)&backgroundColor);
 		ImGui::SliderFloat("Float", &floatValue, 0.0f, 1.0f);
-		if (ImGui::Button("Demo Window"))
+
+		if (ImGui::Checkbox("Demo Window", &b))
 		{
 		}
+		if (b) ImGui::ShowDemoWindow();
 
 		//test helpers
 		ofxImGui::AddGroup(params);

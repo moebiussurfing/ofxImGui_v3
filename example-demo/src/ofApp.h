@@ -35,4 +35,6 @@ public:
 	ofParameter<int> separation;
 	ofParameter<int> shapeSide;
 
+	bool b;
+
 };
