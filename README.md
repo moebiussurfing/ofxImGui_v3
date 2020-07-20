@@ -6,7 +6,8 @@ ofxImGui_v3
 ![Alt text](screenshot.PNG?raw=true "screenshot")  
 
 **This is a fork from**  
-https://github.com/yumataesu/ofxImGui_v3
+https://github.com/yumataesu/ofxImGui_v3  
+Author of the addon: **@yumataesu**  
 
 ## Why this fork?
 Simpler and easy to update than the `official` addon:  
