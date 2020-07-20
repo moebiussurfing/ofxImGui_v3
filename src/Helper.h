@@ -111,5 +111,39 @@ namespace ofxImGui
 	////	return valueChanged;
 	////}
 	//}
-}
+
+
+	////https://github.com/memo/ofxMSAControlFreakImGui/blob/master/src/ofxMSAControlFreakImGui.cpp
+	//int openConfirmationPopup(std::string title, std::string message, bool showCancel) {
+	//	int ret = 0;
+
+	//	if (!ImGui::IsPopupOpen(title.c_str())) ImGui::OpenPopup(title.c_str());
+
+	//	if (ImGui::BeginPopupModal(title.c_str()))
+	//	{
+	//		ImGui::Text(message.c_str());
+	//		//ImGui::SetNextItemWidth(-1.0f);
+
+	//		if (ImGui::Button("Yes", ImVec2(80, 0))) {
+	//			ret = 1;
+	//			ImGui::CloseCurrentPopup();
+	//		}
+	//		ImGui::SameLine();
+	//		if (ImGui::Button("No", ImVec2(80, 0))) {
+	//			ret = 2;
+	//			ImGui::CloseCurrentPopup();
+	//		}
+	//		if (showCancel) {
+	//			ImGui::SameLine();
+	//			if (ImGui::Button("Cancel", ImVec2(80, 0))) {
+	//				ret = 3;
+	//				ImGui::CloseCurrentPopup();
+	//			}
+	//		}
+	//		ImGui::EndPopup();
+	//	}
+	//	return ret;
+	//}
+
+}//namespace ofxImGui
 

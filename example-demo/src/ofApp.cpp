@@ -41,10 +41,10 @@ void ofApp::draw() {
 		ImGui::SliderFloat("Float", &floatValue, 0.0f, 1.0f);
 
 		if (ImGui::Checkbox("Demo Window", &b))
-		{
-		}
+		{}
 		if (b) ImGui::ShowDemoWindow();
 
+		//int i = ofxImGui::openConfirmationPopup("popup", "really?", true);
 
 		//test helpers
 		ofxImGui::AddGroup(params);

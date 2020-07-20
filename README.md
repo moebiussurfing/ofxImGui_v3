@@ -3,7 +3,9 @@ ofxImGui_v3
 
 ## Notes by @moebiusSurfing:
 
-![Alt text](screenshot.PNG?raw=true "screenshot")  
+**/example-demo**  
+![Alt text](readme_images/screenshot1.PNG?raw=true "readme_images/screenshot1.PNG")  
+![Alt text](readme_images/screenshot2.PNG?raw=true "readme_images/screenshot2.PNG")  
 
 **This is a fork from**  
 https://github.com/yumataesu/ofxImGui_v3  
