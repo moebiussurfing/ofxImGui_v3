@@ -38,19 +38,19 @@ https://github.com/pjulien21/ofImGuiApp/issues/1
 
 **OF IMGUI CODE**  
 https://github.com/PlaymodesStudio/ofxImGuiSimple -> simple but without helpers  
-https://github.com/yasuhirohoshino/ofxPBRHelper -> cool helper addon that uses ImGui to handle settings and scene store/recall  
+https://github.com/yasuhirohoshino/ofxPBRHelper -> cool addon that uses ImGui to scene handle and store/recall settings  
 https://github.com/sebasobotka/ofxImGui -> Combo and ListBox which can take a vector<string> and customize fonts ( + .otf) 
 https://github.com/MacFurax/ofxImGui -> nice theme, custom widgets kind of sound synth device like circular knob...  
 https://github.com/pjulien21/ofImGuiApp -> simple but modifiying main.app 
 https://github.com/yumataesu/ImGui_Widgets -> kind of vj widgets  
 https://github.com/geekowll/imdesigner -> tools to create and deep customize widgets  
-https://github.com/katotetsuro/ofxImGui/tree/multiwindow -> simple code to multiwindow/contexts that allow multiple instances without crash  
+https://github.com/katotetsuro/ofxImGui/tree/multiwindow -> simple code to multiwindow/contexts/instances without crash  
 https://github.com/memo/ofxMSAControlFreakImGui  
 https://github.com/rystylee/ofxImGui-docking    
 https://github.com/Akira-Hayasaka/ofxImGui_SplineEditor  
 
 **RAW IMGUI CODE**  
-https://github.com/ocornut/imgui_club -> main examples
+https://github.com/ocornut/imgui_club -> main examples  
 https://github.com/aiekick/ImGuiFileDialog  
 https://github.com/AirGuanZ/imgui-filebrowser
 https://github.com/CedricGuillemet/ImGuizmo  
