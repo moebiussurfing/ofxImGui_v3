@@ -31,7 +31,7 @@ void ofApp::update() {
 
 //--------------------------------------------------------------
 void ofApp::draw() {
-	ofSetBackgroundColor(backgroundColor);
+	//ofSetBackgroundColor(backgroundColor);
 
 	//required to call this at beginning
 	gui.begin();

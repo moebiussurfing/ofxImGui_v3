@@ -21,6 +21,7 @@ public:
     void mouseScrolled(float x, float y);
     
     ofxImGui::Gui gui;
+
     ImVec4 backgroundColor;
     float floatValue;
 
