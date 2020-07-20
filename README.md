@@ -26,14 +26,15 @@ And thanks to all the coders of the below links.
 **OF 0.11** / **Windows10** / **VS2017**  
 
 ### TODO
+- Collect all helpers and useful examples in the same place.  
 - Add node patching repositories with OF examples.  
-- Collect all helpers in the same place.  
-- Any help about add node pacthing engines will be appreciated!
+- Any help about add node pacthing engines will be appreciated!  
+- Looking to port guizmo too..  
 
 ## Related links  
 
 **WHY A SIMPLER WRAPPER?**  
-https://github.com/PlaymodesStudio/ofxImGuiSimple/issues/2 
+https://github.com/PlaymodesStudio/ofxImGuiSimple/issues/2  
 https://github.com/pjulien21/ofImGuiApp/issues/1  
 
 **OF IMGUI CODE**  
@@ -57,8 +58,8 @@ https://github.com/CedricGuillemet/ImGuizmo
 https://github.com/BrutPitt/imGuIZMO.quat  
 
 **NODE PATCHING**  
-https://github.com/thedmd/imgui-node-editor -> looking to port into OF..  
+https://github.com/thedmd/imgui-node-editor -> looking to port nodes into OF..  
 https://github.com/Nelarius/imnodes  
-https://github.com/rokups/ImNodes
+https://github.com/rokups/ImNodes  
 https://github.com/JoshuaBatty/ofxNodeGraph -> old OF example  
 https://github.com/sphaero/ofNodeEditor -> old OF example  
