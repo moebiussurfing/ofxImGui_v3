@@ -45,9 +45,12 @@ void ofApp::draw() {
 		}
 		if (b) ImGui::ShowDemoWindow();
 
+
 		//test helpers
 		ofxImGui::AddGroup(params);
 		ofxImGui::AddGroup(paramsNested);
+
+		ofxImGui::DrawParamSaveWindow(params);
 	}
 	gui.end();
 }
