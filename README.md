@@ -8,26 +8,26 @@ ofxImGui_v3
 **This is a fork from**  
 https://github.com/yumataesu/ofxImGui_v3
 
-### Why to use this fork?
-Simpler and easy to update than the ´official´:  
+## Why this fork?
+Simpler and easy to update than the ´official´ addon:  
 https://github.com/jvcleave/ofxImGui  
-My main idea here is to have some helper methods useful for openFrameworks, mainly to handle ´ofParameter/ofParameterGroup´.  
-I will try to use ofxImGuiSimple or ofxImGui_v3.  
-I will add some interesting links.  
+My main idea here is to have a simpler wrapper but with some helper methods useful for openFrameworks, mainly to handle ´ofParameter/ofParameterGroup´.  
+I will try to use ´ofxImGuiSimple´ or ´ofxImGui_v3´ to *use the more pure raw code as possible*.  
+I will add some interesting links and examples.  
 
 ### Updated to  
 https://github.com/ocornut/imgui/releases/tag/v1.77  
 
 ### Thanks to  
 **@yumataesu** -> for the original code!  
-And thanks all other coders or the all below links.  
+And thanks to all other coders or the all below links.  
 
 ### Tested System  
-**OF 0.11 / Windows10 / VS2017**  
+**OF 0.11** / **Windows10** / **VS2017**  
 
 ### TODO
-- Add node patching repositories.  
-- Collect all helpers on the same place.  
+- Add node patching repositories with OF examples.  
+- Collect all helpers in the same place.  
 
 
 ## Related links  
@@ -49,14 +49,13 @@ https://github.com/pjulien21/ofImGuiApp
 https://github.com/Akira-Hayasaka/ofxImGui_SplineEditor  
 
 **RAW IMGUI CODE**  
+https://github.com/ocornut/imgui_club -> main examples
 https://github.com/aiekick/ImGuiFileDialog  
 https://github.com/AirGuanZ/imgui-filebrowser
-https://github.com/ocornut/imgui_club -> main examples
 
 **NODE PATCHING**  
-https://github.com/thedmd/imgui-node-editor  
+https://github.com/thedmd/imgui-node-editor -> looking to port into OF..  
 https://github.com/Nelarius/imnodes  
 https://github.com/rokups/ImNodes
-https://github.com/JoshuaBatty/ofxNodeGraph  
-https://github.com/sphaero/ofNodeEditor    
-
+https://github.com/JoshuaBatty/ofxNodeGraph -> old OF example  
+https://github.com/sphaero/ofNodeEditor -> old OF example  
