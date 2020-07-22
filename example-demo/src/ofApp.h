@@ -25,7 +25,7 @@ public:
     ImVec4 backgroundColor;
     float floatValue;
 
-	//group1
+	//group
 	ofParameterGroup params;
 	ofParameterGroup paramsNested;
 	ofParameter<bool> fill;

@@ -10,6 +10,10 @@
 
 #include "Helper.h"
 
+//NOTE: ofxImGui do not let to use helpers like this, 
+//if we do not create the window with the helper
+//so this seems better bc we can use more raw code
+
 namespace ofxImGui {
 class Gui 
 {

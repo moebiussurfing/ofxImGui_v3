@@ -8,6 +8,9 @@
 #include "ofTexture.h"
 #include "ofJson.h"
 
+////1.77
+//#include "ofMain.h"
+
 namespace ofxImGui
 {
 	bool isUsing();
